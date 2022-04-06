@@ -1,0 +1,2 @@
+Javac *.java
+  Java Main
